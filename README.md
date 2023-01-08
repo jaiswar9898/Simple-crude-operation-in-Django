@@ -1,0 +1,1 @@
+# Simple-crude-operation-in-Django
